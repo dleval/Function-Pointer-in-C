@@ -7,7 +7,7 @@
 Library and examples for the use of function pointers in C.
 
 Article related to the example project: 
-- [Pointeur de fonction en C (FR)](https://dle-dev.com/)
+- [Pointeur de fonction en C (FR)](https://dle-dev.com/index.php/2021/10/20/pointeur-de-fonction-en-c/)
 - [Function pointer in C (EN)](https://dle-dev.com/)
 
 
