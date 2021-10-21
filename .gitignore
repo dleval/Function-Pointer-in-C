@@ -1,4 +1,4 @@
 *.exe
 *.o
-build
-bin
+Periodic_Alarm/build
+Periodic_Alarm/bin
