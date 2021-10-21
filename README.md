@@ -10,17 +10,6 @@ Article related to the example project:
 - [Pointeur de fonction en C (FR)](https://dle-dev.com/)
 - [Function pointer in C (EN)](https://dle-dev.com/)
 
-## Windows
-To compile, run the following command:
-```
-    gcc main.c alarm.c -o callback.exe
-```
-
-## Linux
-To compile, run the following command:
-```
-    make
-```
 
 <a href ="http://dle-dev.com">
   <img src="https://dle-dev.com/wp-content/uploads/2020/05/dle_dev_logo_v1.1.png" alt="DLE-Dev logo" title="DLE-Dev" align="right" height="40" />
