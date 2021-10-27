@@ -2,3 +2,5 @@
 *.o
 Periodic_Alarm/build
 Periodic_Alarm/bin
+State_Machine/build
+State_Machine/bin
